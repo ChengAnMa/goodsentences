@@ -1,3 +1,3 @@
 # goodsentences
 
-Collecting good sentences to my database
+Collecting Good Sentences To My Database
