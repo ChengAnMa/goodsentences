@@ -1,5 +1,5 @@
 # goodsentences
 
-Collecting Good Sentences To My Database
+Collecting Good Sentences to My Database
 
 http://chenganma.com/upload/insert.php
